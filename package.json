@@ -1,0 +1,22 @@
+{
+  "name": "aao-aflem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciwwan1980/parcel-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciwwan1980/parcel-deployment/issues"
+  },
+  "homepage": "https://github.com/ciwwan1980/parcel-deployment#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
